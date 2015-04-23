@@ -1,0 +1,975 @@
+<?xml version="1.0"?>
+<ROWSET>
+<ROW>
+<FIELD1>Restaurant</FIELD1>
+<FIELD2>Cuisine</FIELD2>
+<FIELD3>Neighborhood</FIELD3>
+<FIELD4>Dollar</FIELD4>
+<FIELD5>Address</FIELD5>
+<FIELD6>City</FIELD6>
+<FIELD7>State</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Alegria</FIELD1>
+<FIELD2>Mexican</FIELD2>
+<FIELD3>Vienna</FIELD3>
+<FIELD4>$$</FIELD4>
+<FIELD5>111 Church St.</FIELD5>
+<FIELD6>Vienna</FIELD6>
+<FIELD7>VA</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Ardeo &amp; Bardeo</FIELD1>
+<FIELD2>American</FIELD2>
+<FIELD3>Cleveland Park</FIELD3>
+<FIELD4>$$$</FIELD4>
+<FIELD5>3311 Connecticut Ave. NW</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Ayse</FIELD1>
+<FIELD2>Middle Eastern</FIELD2>
+<FIELD3>Frederick</FIELD3>
+<FIELD4>$$</FIELD4>
+<FIELD5>6 N. East St.</FIELD5>
+<FIELD6>Frederick</FIELD6>
+<FIELD7>MD</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Baby Wale</FIELD1>
+<FIELD2>American</FIELD2>
+<FIELD3>Mount Vernon Triangle</FIELD3>
+<FIELD4>$$</FIELD4>
+<FIELD5>1124 9th St. NW</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Bangkok Golden</FIELD1>
+<FIELD2>Laotian</FIELD2>
+<FIELD3>Seven Corners</FIELD3>
+<FIELD4>$</FIELD4>
+<FIELD5>6395 Seven Corners Center</FIELD5>
+<FIELD6>Seven Corners</FIELD6>
+<FIELD7>VA</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Bar Pilar</FIELD1>
+<FIELD2>American</FIELD2>
+<FIELD3>Logan Circle</FIELD3>
+<FIELD4>$$</FIELD4>
+<FIELD5>1833 14th St. NW</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Bartlett Pear Inn</FIELD1>
+<FIELD2>American</FIELD2>
+<FIELD3>Easton</FIELD3>
+<FIELD4>$$$</FIELD4>
+<FIELD5>28 S. Harrison St</FIELD5>
+<FIELD6>Easton</FIELD6>
+<FIELD7>MD</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Bastille</FIELD1>
+<FIELD2>French</FIELD2>
+<FIELD3>Old Town Alexandria</FIELD3>
+<FIELD4>$$$</FIELD4>
+<FIELD5>1201 N. Royal St.</FIELD5>
+<FIELD6>Old Town Alexandria</FIELD6>
+<FIELD7>VA</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Birch and Barley</FIELD1>
+<FIELD2>American</FIELD2>
+<FIELD3>Logan Circle</FIELD3>
+<FIELD4>$$$</FIELD4>
+<FIELD5>1337 14th St. NW</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Black&apos;s Bar and Kitchen</FIELD1>
+<FIELD2>American</FIELD2>
+<FIELD3>Bethesda</FIELD3>
+<FIELD4>$$$</FIELD4>
+<FIELD5>7750 Woodmont Ave.</FIELD5>
+<FIELD6>Bethesda</FIELD6>
+<FIELD7>MD</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Blacksalt</FIELD1>
+<FIELD2>Seafood</FIELD2>
+<FIELD3>Palisades</FIELD3>
+<FIELD4>$$$$</FIELD4>
+<FIELD5>4883 MacArthur Blvd. NW</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>BLT Steak</FIELD1>
+<FIELD2>Steakhouse</FIELD2>
+<FIELD3>Downtown</FIELD3>
+<FIELD4>$$$$</FIELD4>
+<FIELD5>1625 I St. NW</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Blue Duck Tavern</FIELD1>
+<FIELD2>American</FIELD2>
+<FIELD3>West End</FIELD3>
+<FIELD4>$$$$</FIELD4>
+<FIELD5>1201 24th St. NW</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Bombay Club</FIELD1>
+<FIELD2>Indian</FIELD2>
+<FIELD3>Downtown</FIELD3>
+<FIELD4>$$$</FIELD4>
+<FIELD5>815 Connecticut Ave. NW</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Bonchon Chicken</FIELD1>
+<FIELD2>Korean</FIELD2>
+<FIELD3>Clarendon</FIELD3>
+<FIELD4>$</FIELD4>
+<FIELD5>2209-E N. Pershing Dr.</FIELD5>
+<FIELD6>Clarendon</FIELD6>
+<FIELD7>VA</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Boqueria</FIELD1>
+<FIELD2>Spanish</FIELD2>
+<FIELD3>Dupont Circle</FIELD3>
+<FIELD4>$$</FIELD4>
+<FIELD5>1837 M St. NW</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Bourbon Steak</FIELD1>
+<FIELD2>Steakhouse</FIELD2>
+<FIELD3>Georgetown</FIELD3>
+<FIELD4>$$$$</FIELD4>
+<FIELD5>2800 Pennsylvania Ave. NW</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Brabo by Robert Wiedmaier</FIELD1>
+<FIELD2>Belgian</FIELD2>
+<FIELD3>Old Town Alexandria</FIELD3>
+<FIELD4>$$$$</FIELD4>
+<FIELD5>1600 King St.</FIELD5>
+<FIELD6>Old Town Alexandria</FIELD6>
+<FIELD7>VA</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Casa Luca</FIELD1>
+<FIELD2>Italian</FIELD2>
+<FIELD3>Downtown</FIELD3>
+<FIELD4>$$$</FIELD4>
+<FIELD5>1099 New York Ave. NW</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Cashion&apos;s Eat Place</FIELD1>
+<FIELD2>American</FIELD2>
+<FIELD3>Adams Morgan</FIELD3>
+<FIELD4>$$$$</FIELD4>
+<FIELD5>1819 Columbia Rd. NW</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Cava Mezze</FIELD1>
+<FIELD2>Greek</FIELD2>
+<FIELD3>Eastern Market</FIELD3>
+<FIELD4>$$</FIELD4>
+<FIELD5>527 8th St. SE</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Cava Mezze</FIELD1>
+<FIELD2>Greek</FIELD2>
+<FIELD3>Clarendon</FIELD3>
+<FIELD4>$$</FIELD4>
+<FIELD5>527 8th St. SE</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Cava Mezze</FIELD1>
+<FIELD2>Greek</FIELD2>
+<FIELD3>Rockville</FIELD3>
+<FIELD4>$$</FIELD4>
+<FIELD5>9713 Traville Gateway Drive</FIELD5>
+<FIELD6>Rockville</FIELD6>
+<FIELD7>MD</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Central Michel Richard</FIELD1>
+<FIELD2>American</FIELD2>
+<FIELD3>Penn Quarter</FIELD3>
+<FIELD4>$$$</FIELD4>
+<FIELD5>1001 Pennsylvania Ave. NW</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>CityZen</FIELD1>
+<FIELD2>American</FIELD2>
+<FIELD3>Downtown</FIELD3>
+<FIELD4>$$$$</FIELD4>
+<FIELD5>1330 Maryland Ave. SW</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Corduroy</FIELD1>
+<FIELD2>American</FIELD2>
+<FIELD3>Mount Vernon Triangle</FIELD3>
+<FIELD4>$$$$</FIELD4>
+<FIELD5>1122 9th St. NW</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Cork</FIELD1>
+<FIELD2>American</FIELD2>
+<FIELD3>Logan Circle</FIELD3>
+<FIELD4>$$$</FIELD4>
+<FIELD5>1720 14th St. NW</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Daikaya</FIELD1>
+<FIELD2>Japanese</FIELD2>
+<FIELD3>Penn Quarter</FIELD3>
+<FIELD4>$$</FIELD4>
+<FIELD5>705 6th St. NW</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Del Campo</FIELD1>
+<FIELD2>Latin</FIELD2>
+<FIELD3>Penn Quarter</FIELD3>
+<FIELD4>$$$</FIELD4>
+<FIELD5>777 I St. NW</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>DGS Delicatessan</FIELD1>
+<FIELD2>Jewish</FIELD2>
+<FIELD3>Dupont Circle</FIELD3>
+<FIELD4>$$</FIELD4>
+<FIELD5>1317 Connecticut Ave. NW</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Doi Moi</FIELD1>
+<FIELD2>Asian Fusion</FIELD2>
+<FIELD3>Logan Circle</FIELD3>
+<FIELD4>$$$</FIELD4>
+<FIELD5>1800 14th St. NW</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>8407 Kitchen Bar</FIELD1>
+<FIELD2>American</FIELD2>
+<FIELD3>Silver Spring</FIELD3>
+<FIELD4>$$$$</FIELD4>
+<FIELD5>8407 Ramsey Ave. </FIELD5>
+<FIELD6>Silver Spring</FIELD6>
+<FIELD7>MD</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Estadio</FIELD1>
+<FIELD2>Spanish</FIELD2>
+<FIELD3>Logan Circle</FIELD3>
+<FIELD4>$$$</FIELD4>
+<FIELD5>1520 14th St. NW</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Ethiopic</FIELD1>
+<FIELD2>Ethiopian</FIELD2>
+<FIELD3>H Street</FIELD3>
+<FIELD4>$$</FIELD4>
+<FIELD5>401 H St. NE</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Etto</FIELD1>
+<FIELD2>Italian</FIELD2>
+<FIELD3>Logan Circle</FIELD3>
+<FIELD4>$$$</FIELD4>
+<FIELD5>1541 14th St. NW</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Et Voila</FIELD1>
+<FIELD2>Belgian</FIELD2>
+<FIELD3>Palisades</FIELD3>
+<FIELD4>$$$</FIELD4>
+<FIELD5>5120 MacArthur Blvd.</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Fiola</FIELD1>
+<FIELD2>Italian</FIELD2>
+<FIELD3>Penn Quarter</FIELD3>
+<FIELD4>$$$</FIELD4>
+<FIELD5>678 Indiana Ave. NW</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Food Wine &amp; Co.</FIELD1>
+<FIELD2>American</FIELD2>
+<FIELD3>Bethesda</FIELD3>
+<FIELD4>$$$</FIELD4>
+<FIELD5>7272 Wisconsin Ave.</FIELD5>
+<FIELD6>Bethesda</FIELD6>
+<FIELD7>MD</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>G by Mike Isabella</FIELD1>
+<FIELD2>Sandwiches</FIELD2>
+<FIELD3>U Street</FIELD3>
+<FIELD4>$$</FIELD4>
+<FIELD5>2201 14th St. NW</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Graffiato</FIELD1>
+<FIELD2>Italian</FIELD2>
+<FIELD3>Penn Quarter</FIELD3>
+<FIELD4>$$$</FIELD4>
+<FIELD5>707 6th St. NW</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Green Pig Bistro</FIELD1>
+<FIELD2>American</FIELD2>
+<FIELD3>Clarendon</FIELD3>
+<FIELD4>$$</FIELD4>
+<FIELD5>1025 N. Fillmore St</FIELD5>
+<FIELD6>Clarendon</FIELD6>
+<FIELD7>VA</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Hank&apos;s Oyster Bar</FIELD1>
+<FIELD2>Seafood</FIELD2>
+<FIELD3>Dupont Circle</FIELD3>
+<FIELD4>$$$</FIELD4>
+<FIELD5>1624 Q St. NW</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Hank&apos;s Oyster Bar</FIELD1>
+<FIELD2>Seafood</FIELD2>
+<FIELD3>Capitol Hill</FIELD3>
+<FIELD4>$$$</FIELD4>
+<FIELD5>633 Pennsylvania Ave. SE</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Hank&apos;s Oyster Bar</FIELD1>
+<FIELD2>Seafood</FIELD2>
+<FIELD3>Old Town Alexandria</FIELD3>
+<FIELD4>$$$</FIELD4>
+<FIELD5>1026 King St. </FIELD5>
+<FIELD6>Old Town Alexandria</FIELD6>
+<FIELD7>VA</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>The Inn at Little Washington</FIELD1>
+<FIELD2>American</FIELD2>
+<FIELD3>Washington</FIELD3>
+<FIELD4>$$$$</FIELD4>
+<FIELD5>309 Middle St.</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>VA</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Izakaya Seki</FIELD1>
+<FIELD2>Japanese</FIELD2>
+<FIELD3>U Street</FIELD3>
+<FIELD4>$$$</FIELD4>
+<FIELD5>1117 V. St. NW</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Jaleo</FIELD1>
+<FIELD2>Spanish</FIELD2>
+<FIELD3>Penn Quarter</FIELD3>
+<FIELD4>$$</FIELD4>
+<FIELD5>480 7th St. NW</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Johnny&apos;s Half Shell</FIELD1>
+<FIELD2>Seafood</FIELD2>
+<FIELD3>Capitol Hill</FIELD3>
+<FIELD4>$$$</FIELD4>
+<FIELD5>400 N. Capitol St. NW</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Kapnos</FIELD1>
+<FIELD2>Greek</FIELD2>
+<FIELD3>U Street</FIELD3>
+<FIELD4>$$$</FIELD4>
+<FIELD5>2201 14th St. NW</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Kaz Sushi Bistro</FIELD1>
+<FIELD2>Japanese</FIELD2>
+<FIELD3>Downtown</FIELD3>
+<FIELD4>$$$</FIELD4>
+<FIELD5>1915 I St. NW</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Kogiya</FIELD1>
+<FIELD2>Korean</FIELD2>
+<FIELD3>Annandale</FIELD3>
+<FIELD4>$$</FIELD4>
+<FIELD5>4220-A Annandale Rd.</FIELD5>
+<FIELD6>Annandale</FIELD6>
+<FIELD7>VA</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Komi</FIELD1>
+<FIELD2>Greek</FIELD2>
+<FIELD3>Dupont Circle</FIELD3>
+<FIELD4>$$$$</FIELD4>
+<FIELD5>1509 17th St. NW</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>La Limena</FIELD1>
+<FIELD2>Peruvian</FIELD2>
+<FIELD3>Rockville</FIELD3>
+<FIELD4>$</FIELD4>
+<FIELD5>765-B Rockville Pike</FIELD5>
+<FIELD6>Rockville</FIELD6>
+<FIELD7>MD</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>L&apos;Auberge Chez Francois</FIELD1>
+<FIELD2>French</FIELD2>
+<FIELD3>Great Falls</FIELD3>
+<FIELD4>$$$$</FIELD4>
+<FIELD5>332 Springvale Rd.</FIELD5>
+<FIELD6>Great Falls</FIELD6>
+<FIELD7>VA</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>La Table Provencale</FIELD1>
+<FIELD2>French</FIELD2>
+<FIELD3>White Post</FIELD3>
+<FIELD4>$$$$</FIELD4>
+<FIELD5>13630 Lord Fairfax Hwy.</FIELD5>
+<FIELD6>White Post</FIELD6>
+<FIELD7>VA</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Le Diplomate</FIELD1>
+<FIELD2>French</FIELD2>
+<FIELD3>Logan Circle</FIELD3>
+<FIELD4>$$$</FIELD4>
+<FIELD5>1610 14th St. NW</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Liberty Tavern</FIELD1>
+<FIELD2>American</FIELD2>
+<FIELD3>Clarendon</FIELD3>
+<FIELD4>$$$</FIELD4>
+<FIELD5>3195 Wilson Blvd.</FIELD5>
+<FIELD6>Clarendon</FIELD6>
+<FIELD7>VA</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Little Serow</FIELD1>
+<FIELD2>Thai</FIELD2>
+<FIELD3>Dupont Circle</FIELD3>
+<FIELD4>$$$$</FIELD4>
+<FIELD5>1511 17th St. NW</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Lyon Hall</FIELD1>
+<FIELD2>French</FIELD2>
+<FIELD3>Clarendon</FIELD3>
+<FIELD4>$$$</FIELD4>
+<FIELD5>3100 N. Washington Blvd.</FIELD5>
+<FIELD6>Clarendon</FIELD6>
+<FIELD7>VA</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>The Majestic</FIELD1>
+<FIELD2>American</FIELD2>
+<FIELD3>Old Town Alexandria</FIELD3>
+<FIELD4>$$$</FIELD4>
+<FIELD5>911 King St.</FIELD5>
+<FIELD6>Old Town Alexandria</FIELD6>
+<FIELD7>VA</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Makoto</FIELD1>
+<FIELD2>Japanese</FIELD2>
+<FIELD3>Palisades</FIELD3>
+<FIELD4>$$$$</FIELD4>
+<FIELD5>4822 MacArthur Blvd. NW</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Maple Ave. Restaurant</FIELD1>
+<FIELD2>Asian Fusion</FIELD2>
+<FIELD3>Vienna</FIELD3>
+<FIELD4>$$</FIELD4>
+<FIELD5>147 Maple Ave.</FIELD5>
+<FIELD6>Vienna</FIELD6>
+<FIELD7>VA</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Marcel&apos;s</FIELD1>
+<FIELD2>French</FIELD2>
+<FIELD3>West End</FIELD3>
+<FIELD4>$$$$</FIELD4>
+<FIELD5>2401 Pennsylvania Ave.</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Minibar</FIELD1>
+<FIELD2>American</FIELD2>
+<FIELD3>Penn Quarter</FIELD3>
+<FIELD4>$$$$</FIELD4>
+<FIELD5>855 E St. NW</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Mintwood Place</FIELD1>
+<FIELD2>American</FIELD2>
+<FIELD3>Adams Morgan</FIELD3>
+<FIELD4>$$$</FIELD4>
+<FIELD5>1813 Columbia Rd. NW</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Montmartre</FIELD1>
+<FIELD2>French</FIELD2>
+<FIELD3>Eastern Market</FIELD3>
+<FIELD4>$$$</FIELD4>
+<FIELD5>327 7th St. SE</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Nava Thai</FIELD1>
+<FIELD2>Thai</FIELD2>
+<FIELD3>Wheaton</FIELD3>
+<FIELD4>$$</FIELD4>
+<FIELD5>11301 Fern St. </FIELD5>
+<FIELD6>Wheaton</FIELD6>
+<FIELD7>MD</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Nopa Kitchen &amp; Bar</FIELD1>
+<FIELD2>American</FIELD2>
+<FIELD3>Penn Quarter</FIELD3>
+<FIELD4>$$$</FIELD4>
+<FIELD5>800 F. St. NW</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Nostos</FIELD1>
+<FIELD2>Greek</FIELD2>
+<FIELD3>Tysons Corner</FIELD3>
+<FIELD4>$$$</FIELD4>
+<FIELD5>8100 Boone Blvd.</FIELD5>
+<FIELD6>Tysons Corner</FIELD6>
+<FIELD7>VA</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Obelisk</FIELD1>
+<FIELD2>Italian</FIELD2>
+<FIELD3>Dupont Circle</FIELD3>
+<FIELD4>$$$$</FIELD4>
+<FIELD5>2029 P St. NW</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Oval Room</FIELD1>
+<FIELD2>American</FIELD2>
+<FIELD3>Downtown</FIELD3>
+<FIELD4>$$$$</FIELD4>
+<FIELD5>800 Connecticut Ave. NW</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Palena &amp; Palena Caf_</FIELD1>
+<FIELD2>American</FIELD2>
+<FIELD3>Cleveland Park</FIELD3>
+<FIELD4>$$$$</FIELD4>
+<FIELD5>3529 Connecticut Ave. NW</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Passage to India</FIELD1>
+<FIELD2>Indian</FIELD2>
+<FIELD3>Bethesda</FIELD3>
+<FIELD4>$$</FIELD4>
+<FIELD5>4931 Cordell Ave.</FIELD5>
+<FIELD6>Bethesda</FIELD6>
+<FIELD7>MD</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>PassionFish</FIELD1>
+<FIELD2>Seafood</FIELD2>
+<FIELD3>Reston</FIELD3>
+<FIELD4>$$$</FIELD4>
+<FIELD5>11960 Democracy Dr.</FIELD5>
+<FIELD6>Reston</FIELD6>
+<FIELD7>VA</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Pearl Dive Oyster Palace</FIELD1>
+<FIELD2>Seafood</FIELD2>
+<FIELD3>Logan Circle</FIELD3>
+<FIELD4>$$$</FIELD4>
+<FIELD5>1612 14th St. NW</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Proof</FIELD1>
+<FIELD2>American</FIELD2>
+<FIELD3>Penn Quarter</FIELD3>
+<FIELD4>$$$$</FIELD4>
+<FIELD5>775 G St. NW</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Rappahannock Oyster Bar</FIELD1>
+<FIELD2>Seafood</FIELD2>
+<FIELD3>Northeast</FIELD3>
+<FIELD4>$$</FIELD4>
+<FIELD5>1309 5th St. NE</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Rasika</FIELD1>
+<FIELD2>Indian</FIELD2>
+<FIELD3>Penn Quarter</FIELD3>
+<FIELD4>$$$</FIELD4>
+<FIELD5>633 D St. NW</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Rasika West End</FIELD1>
+<FIELD2>Indian</FIELD2>
+<FIELD3>West End</FIELD3>
+<FIELD4>$$$</FIELD4>
+<FIELD5>1190 New Hampshire Ave. NW</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Ray&apos;s the Steaks</FIELD1>
+<FIELD2>Steakhouse</FIELD2>
+<FIELD3>Courthouse</FIELD3>
+<FIELD4>$$$</FIELD4>
+<FIELD5>2300 Wilson Blvd.</FIELD5>
+<FIELD6>Courthouse</FIELD6>
+<FIELD7>VA</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Ray&apos;s to the Third</FIELD1>
+<FIELD2>Steakhouse</FIELD2>
+<FIELD3>Courthouse</FIELD3>
+<FIELD4>$$$</FIELD4>
+<FIELD5>1650 Wilson Blvd.</FIELD5>
+<FIELD6>Courthouse</FIELD6>
+<FIELD7>VA</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>The Red Hen</FIELD1>
+<FIELD2>American</FIELD2>
+<FIELD3>Bloomingdale</FIELD3>
+<FIELD4>$$$</FIELD4>
+<FIELD5>1822 1st St. NE</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Restaurant Eve</FIELD1>
+<FIELD2>American</FIELD2>
+<FIELD3>Old Town Alexandria</FIELD3>
+<FIELD4>$$$$</FIELD4>
+<FIELD5>110 S Pitt St. </FIELD5>
+<FIELD6>Old Town Alexandria</FIELD6>
+<FIELD7>VA</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Restaurant at Patowmack Farm</FIELD1>
+<FIELD2>American</FIELD2>
+<FIELD3>Lovettsville</FIELD3>
+<FIELD4>$$$$</FIELD4>
+<FIELD5>42461 Lovettsville Rd.</FIELD5>
+<FIELD6>Lovettsville</FIELD6>
+<FIELD7>VA</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Rice Paper</FIELD1>
+<FIELD2>Vietnamese</FIELD2>
+<FIELD3>Seven Corners</FIELD3>
+<FIELD4>$</FIELD4>
+<FIELD5>6775 Wilson Blvd.</FIELD5>
+<FIELD6>Seven Corners</FIELD6>
+<FIELD7>VA</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Ripple</FIELD1>
+<FIELD2>American</FIELD2>
+<FIELD3>Cleveland Park</FIELD3>
+<FIELD4>$$$</FIELD4>
+<FIELD5>3417 Connecticut Ave. NW</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Ris</FIELD1>
+<FIELD2>American</FIELD2>
+<FIELD3>West End</FIELD3>
+<FIELD4>$$$</FIELD4>
+<FIELD5>2275 L St. NW</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Rogue 24</FIELD1>
+<FIELD2>American</FIELD2>
+<FIELD3>Mount Vernon Triangle</FIELD3>
+<FIELD4>$$$$</FIELD4>
+<FIELD5>922 N St. NW</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Rose&apos;s Luxury</FIELD1>
+<FIELD2>American</FIELD2>
+<FIELD3>Eastern Market</FIELD3>
+<FIELD4>$$$</FIELD4>
+<FIELD5>717 8th St. SE</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Ruan Thai</FIELD1>
+<FIELD2>Thai</FIELD2>
+<FIELD3>Wheaton</FIELD3>
+<FIELD4>$$</FIELD4>
+<FIELD5>11407 Amherst Ave.</FIELD5>
+<FIELD6>Wheaton</FIELD6>
+<FIELD7>MD</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Rus Uz</FIELD1>
+<FIELD2>Russian</FIELD2>
+<FIELD3>Ballston</FIELD3>
+<FIELD4>$$</FIELD4>
+<FIELD5>1000 N. Randolph St.</FIELD5>
+<FIELD6>Ballston</FIELD6>
+<FIELD7>VA</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Seasonal Pantry</FIELD1>
+<FIELD2>American</FIELD2>
+<FIELD3>Mount Vernon Triangle</FIELD3>
+<FIELD4>$$$$</FIELD4>
+<FIELD5>1314 1/2 9th St. NW</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>1789</FIELD1>
+<FIELD2>American</FIELD2>
+<FIELD3>Georgetown</FIELD3>
+<FIELD4>$$$$</FIELD4>
+<FIELD5>1226 36th St. NW</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>The Source</FIELD1>
+<FIELD2>Asian Fusion</FIELD2>
+<FIELD3>Penn Quarter</FIELD3>
+<FIELD4>$$$$</FIELD4>
+<FIELD5>575 Pennsylvania Ave N.W.</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Sushi Sono</FIELD1>
+<FIELD2>Japanese</FIELD2>
+<FIELD3>Columbia</FIELD3>
+<FIELD4>$$$</FIELD4>
+<FIELD5>10215 Wincopin Cir.</FIELD5>
+<FIELD6>Columbia</FIELD6>
+<FIELD7>MD</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Sushi Taro</FIELD1>
+<FIELD2>Japanese</FIELD2>
+<FIELD3>Dupont Circle</FIELD3>
+<FIELD4>$$$$</FIELD4>
+<FIELD5>1503 17th St. NW</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Table</FIELD1>
+<FIELD2>American</FIELD2>
+<FIELD3>Mount Vernon Triangle</FIELD3>
+<FIELD4>$$$</FIELD4>
+<FIELD5>903 N St. NW</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Toki Underground</FIELD1>
+<FIELD2>Japanese</FIELD2>
+<FIELD3>H Street</FIELD3>
+<FIELD4>$</FIELD4>
+<FIELD5>1234 H St. NE</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>2941</FIELD1>
+<FIELD2>American</FIELD2>
+<FIELD3>Falls Church</FIELD3>
+<FIELD4>$$$$</FIELD4>
+<FIELD5>2941 Fairview Park Dr.</FIELD5>
+<FIELD6>Falls Church</FIELD6>
+<FIELD7>VA</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>2 Amy&apos;s</FIELD1>
+<FIELD2>Pizza </FIELD2>
+<FIELD3>Cathedral Heights</FIELD3>
+<FIELD4>$$</FIELD4>
+<FIELD5>3715 Macomb St. NW</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Vermillion</FIELD1>
+<FIELD2>American</FIELD2>
+<FIELD3>Old Town Alexandria</FIELD3>
+<FIELD4>$$$$</FIELD4>
+<FIELD5>1120 King St.</FIELD5>
+<FIELD6>Old Town Alexandria</FIELD6>
+<FIELD7>VA</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Vidalia</FIELD1>
+<FIELD2>Southern</FIELD2>
+<FIELD3>Dupont Circle</FIELD3>
+<FIELD4>$$$$</FIELD4>
+<FIELD5>1990 M St. NW</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Vin 909 Winecafe</FIELD1>
+<FIELD2>American</FIELD2>
+<FIELD3>Annapolis</FIELD3>
+<FIELD4>$$</FIELD4>
+<FIELD5>909 Bay Ridge Ave.</FIELD5>
+<FIELD6>Annapolis</FIELD6>
+<FIELD7>MD</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Westend Bistro</FIELD1>
+<FIELD2>American</FIELD2>
+<FIELD3>West End</FIELD3>
+<FIELD4>$$$$</FIELD4>
+<FIELD5>1190 22nd St. NW</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Woodberry Kitchen</FIELD1>
+<FIELD2>American</FIELD2>
+<FIELD3>Baltimore</FIELD3>
+<FIELD4>$$$$</FIELD4>
+<FIELD5>2010 Clipper Park Rd.</FIELD5>
+<FIELD6>Baltimore</FIELD6>
+<FIELD7>MD</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Woodward Table</FIELD1>
+<FIELD2>American</FIELD2>
+<FIELD3>Downtown</FIELD3>
+<FIELD4>$$$</FIELD4>
+<FIELD5>1430 H St. NW</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+<ROW>
+<FIELD1>Zaytinya</FIELD1>
+<FIELD2>Greek</FIELD2>
+<FIELD3>Penn Quarter</FIELD3>
+<FIELD4>$$$</FIELD4>
+<FIELD5>701 9th St. NW</FIELD5>
+<FIELD6>Washington</FIELD6>
+<FIELD7>DC</FIELD7>
+</ROW>
+</ROWSET>
