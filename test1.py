@@ -1,7 +1,7 @@
 import json, os
 from bottle import route, run, static_file, request
 
-pth_xml     = os.path.dirname(os.path.realpath(__file__)) + '/xml/'
+pth_xml = os.path.dirname(os.path.realpath(__file__)) + '/xml/'
 
 
 @route('/')
@@ -23,11 +23,19 @@ def recipe_show( name=""):
     if name != '':
     	return static_file(name, pth_xml)
     else:
-    	return { "success" : False, "error" : "show called without a filename" }
+    	return { "success" : False, "error" : "called without a filename" }
 
 @route('/recipes/<name>', method='DELETE' )
-def recipe_delete( name="Mystery Recipe" ):
-    return { "success" : False, "error" : "delete not implemented yet" }
+def recipe_delete( name='' ):
+	if name != '':
+		try:
+			os.remove(os.path.join(pth_xml, name+'.xml'))
+			return {'success':True, 'error':None}
+		except Exception, e:
+			return {'success':False, 'error':e}
+	else:
+    	return { "success" : False, "error" : "called without a filename" }
+
 
 @route('/recipes/<name>', method='PUT')
 def recipe_save( name='' ):
